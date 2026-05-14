@@ -1,0 +1,30 @@
+body {
+    font-family: Arial, sans-serif;
+    max-width: 1000px;
+    margin: 2rem auto;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 1rem;
+}
+
+th, td {
+    border: 1px solid #ccc;
+    padding: 10px;
+}
+
+th {
+    background: #C62828;
+    color: white;
+}
+
+button {
+    padding: 6px 10px;
+    cursor: pointer;
+}
+
+form {
+    margin-bottom: 1rem;
+}
